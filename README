@@ -1,3 +1,4 @@
+作用: 给电脑生成ssl证书模拟服务端
 InstallCert.java
 
 Java program written by Andreas Sterbenz, and posted on a blog in Oct, 2006:
