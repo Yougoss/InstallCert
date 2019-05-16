@@ -1,7 +1,7 @@
 作用: 给电脑生成ssl证书模拟服务端
 使用方法:
     1、javac InstallCert.java
-    2、java InstallCert www.baidu.com
+    2、java InstallCert 模拟的服务器域名
     3、选择 1生成文件 q退出
     4、mv jssecacerts $JAVA_HOME/jre/lib/security/
     
